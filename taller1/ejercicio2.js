@@ -1,1 +1,1 @@
-ejercicio2.js
+console.log("ejerccio de uso de git")
