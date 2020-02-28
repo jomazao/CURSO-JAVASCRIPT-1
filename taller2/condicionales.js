@@ -9,4 +9,4 @@ if (edad <18){
     alert("lo sentimos, eres menor de edad, no pudes ingresar")
  }else{
        alert("bienvenido al sistema "+nombrecompleto)
-    }
+}

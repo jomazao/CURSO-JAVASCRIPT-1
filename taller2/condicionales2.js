@@ -1,6 +1,6 @@
-var numero = prompt ("digite un numero")
+/*var numero = prompt ("digite un numero")
 if (numero %2 == 0){
-    alert("el numero ingrsado es par")
+   alert("el numero ingrsado es par")
 }else{
 alert("el numero ingresado es impar")
 }
@@ -10,4 +10,11 @@ if (numero % 5 == 0){
     alert ("el numero que digitaste es multiplo")
 }else{
     alert("el numero que digito no es multiplo")
+}*/
+
+var nombre= prompt ("digite su nombre")
+if( nombre=="ana"){
+    alert("Hola Ana ")
+}else{
+    alert("Hola otra persona")
 }
